@@ -1,0 +1,29 @@
+
+//https://scontent.fpoa43-1.fna.fbcdn.net/v/t1.6435-9/150574368_746013512988253_2303460089477149960_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeF6_lezRvwKJvGs2qcgIzTzYXtjrNqZ1wJhe2Os2pnXAgf-cn9uDmmgdd2JUoXHoe9mjEjnCdlGkzE700mRFJbD&_nc_ohc=-S6WUz-MvjMAX9ditN4&_nc_ht=scontent.fpoa43-1.fna&oh=6999a964faf900e468c575f5d7161d40&oe=61BA50BF
+div{
+    font-family: 'Oswald', sans-serif;
+}
+.banner{
+    height: 200px;
+    background-image: url(https://www.themebeta.com/media/cache/728/files/chrome/images/201802/16/821991277b91ec01082584208e636bbe.jpeg);
+    background-attachment: fixed;
+}
+
+.img{
+    right: 50px;
+    border-radius: 10px;
+    border-color: rgb(2, 14, 87);
+    border-style: outset;
+    height: 100px;
+    width: 100px;
+    display: inline-flex;
+}
+
+p{   
+    padding: 12px;
+    border-radius: 15px;
+    display: inline; 
+    text-align:justify;
+    color: rgb(255, 255, 255);
+
+}
